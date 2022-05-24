@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2c4a52-344b-4d93-afb7-3656afae846c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/ESort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/BanDoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/BanDoc.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/BanDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/BanDoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/QLMuonSach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/QLMuonSach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/Service.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/MuonSach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/MuonSach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/QLMuonSach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/QLMuonSach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/MuonSach.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -34,6 +36,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="encapsulation_Inheritance" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,7 +89,9 @@
       <workItem from="1653365669628" duration="77000" />
       <workItem from="1653366864247" duration="603000" />
       <workItem from="1653367490190" duration="119000" />
-      <workItem from="1653368613641" duration="3064000" />
+      <workItem from="1653368613641" duration="3186000" />
+      <workItem from="1653375619772" duration="16168000" />
+      <workItem from="1653399805439" duration="2385000" />
     </task>
     <servers />
   </component>
