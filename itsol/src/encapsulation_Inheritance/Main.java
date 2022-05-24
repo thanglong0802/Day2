@@ -5,9 +5,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        QLMuonSach sach[] = new Sach[50];
+        QLMuonSach banDoc[] = new BanDoc[50];
         QLMuonSach arrQLMuonSach[] = new QLMuonSach[50];
-        int indexSach = 0;
-        int indexBanDoc = 0;
+        int indexArr = 0;
+//        int indexBanDoc = 0;
         while (true) {
             System.out.println("=== Menu ===");
             System.out.println("1. Nhập sách và bạn đọc");
@@ -27,34 +29,27 @@ public class Main {
 //                    System.out.println("3. Hiển thị danh sách");
                     int choice = QLMuonSach.nhapInt(scanner);
                     if (choice == 1) {
-                        QLMuonSach sach = new Sach();
-                        sach.nhap(scanner);
-                        arrQLMuonSach[indexSach++] = sach;
-                        for (int i = 0; i < indexSach; i++) {
-                            System.out.println(arrQLMuonSach[i].hienThi());
-                        }
+//                        QLMuonSach sach = new Sach();
+//                        sach.nhap(scanner);
+//                        arrQLMuonSach[indexSach++] = sach;
+//                        for (int i = 0; i < indexSach; i++) {
+//                            System.out.println(arrQLMuonSach[i].hienThi());
+//                        }
                         break;
                     } if (choice == 2) {
-                        QLMuonSach banDoc = new BanDoc();
-                        banDoc.nhap(scanner);
-                        arrQLMuonSach[indexBanDoc++] = banDoc;
-                        for (int i = 0; i < indexBanDoc; i++) {
-                            System.out.println(arrQLMuonSach[i].hienThi());
-                        }
+//                        QLMuonSach banDoc = new BanDoc();
+//                        banDoc.nhap(scanner);
+//                        arrQLMuonSach[indexBanDoc++] = banDoc;
+//                        for (int i = 0; i < indexBanDoc; i++) {
+//                            System.out.println(arrQLMuonSach[i].hienThi());
+//                        }
                         break;
                     } else {
                         System.out.println("Nhập lại số!");
                     }
                 }
             } else if (choiceMainMenu == 2) {
-                int maSach;
-                do {
-                    System.out.println("Nhập mã sách: ");
-                    maSach = scanner.nextInt();
-                    if (maSach == indexSach) {
-
-                    }
-                } while (maSach < 0);
+                System.out.println("Nhập mã sách: ");
             } else if (choiceMainMenu == 3) {
 
             } else {

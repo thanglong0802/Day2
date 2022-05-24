@@ -104,7 +104,6 @@ public class BanDoc extends QLMuonSach {
                 append(", địa chỉ: ").append(getDiaChi()).
                 append(", số điện thoại: ").append(getSoDienThoai()).
                 append(", loại bạn đọc: ").append(getLoaiBanDoc());
-//        System.out.println(builder);
         return builder.toString();
     }
 }

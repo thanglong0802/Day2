@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c2c4a52-344b-4d93-afb7-3656afae846c" name="Default Changelist" comment="" />
+    <list default="true" id="7c2c4a52-344b-4d93-afb7-3656afae846c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/itsol/encapsulation_Inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/BanDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/BanDoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/QLMuonSach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/QLMuonSach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation_Inheritance/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_Inheritance/MuonSach.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +24,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="29QDungbLnCXFZfPLEEHvVszxrk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,10 +80,26 @@
       <workItem from="1653036643996" duration="1800000" />
       <workItem from="1653271564987" duration="14059000" />
       <workItem from="1653365669628" duration="77000" />
+      <workItem from="1653366864247" duration="603000" />
+      <workItem from="1653367490190" duration="119000" />
+      <workItem from="1653368613641" duration="3064000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
