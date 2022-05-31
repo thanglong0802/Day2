@@ -35,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -92,6 +93,9 @@
       <workItem from="1653368613641" duration="3186000" />
       <workItem from="1653375619772" duration="16168000" />
       <workItem from="1653399805439" duration="2385000" />
+      <workItem from="1653450799469" duration="57000" />
+      <workItem from="1653452558662" duration="185000" />
+      <workItem from="1653474213693" duration="284000" />
     </task>
     <servers />
   </component>
